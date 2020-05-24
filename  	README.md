@@ -9,8 +9,5 @@ pip3 install --upgrade pip
 pip3 install tensorflow
 ```
 ```
-pip3 install tf-nightly
-```
-```
 pip3 install matplotlib
 ```
