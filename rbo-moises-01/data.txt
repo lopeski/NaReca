@@ -1,0 +1,2 @@
+{{"content": "http://com.dataturks.a96-i23.open.s3.amazonaws.com/2c9fafb064277d86016431e33e4e003d/c4efa88f-8218-4675-b5ce-30a03bf8b8f4___1.png","annotation":[{"label":["Face"],"notes":"","points":[{"x":0.495,"y":0.27147766323024053},{"x":0.595,"y":0.46048109965635736}],"imageWidth":600,"imageHeight":291}],"extras":null}
+}
